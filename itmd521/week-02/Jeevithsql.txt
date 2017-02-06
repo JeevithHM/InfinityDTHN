@@ -1,0 +1,22 @@
+
+CREATE TABLE JEEVITHDATASET1 (
+    usaf_id VARCHAR(10),
+     wban_id VARCHAR(10),
+     obsr_date VARCHAR(10),
+    year VARCHAR(10),
+     obsr_time VARCHAR(10),
+     latitude VARCHAR(10),
+     longitude VARCHAR(10),
+ elevation VARCHAR(10),
+    wind_dir VARCHAR(10),
+     qc1 VARCHAR(10),
+    sky_ceiling_height VARCHAR(10),
+     qc2 VARCHAR(10),
+     visibility_dist VARCHAR(10),
+    qc3 VARCHAR(10),
+     air_temp Integer,
+    qc4 VARCHAR(6),
+     dew_temp VARCHAR(5),
+     qc5 VARCHAR(6),
+ atmos_pressure VARCHAR(6),
+     qc6 VARCHAR(6));
